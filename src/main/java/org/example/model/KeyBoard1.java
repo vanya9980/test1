@@ -11,7 +11,7 @@ import org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.*;
 
 import java.util.ArrayList;
 import java.util.List;
-//tested
+//tested complete
 public class KeyBoard1 {
     private void setInline() {
         List<List<InlineKeyboardButton>> buttons = new ArrayList<>();
