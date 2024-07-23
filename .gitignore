@@ -5,7 +5,7 @@
 .ipr
 target
 .DS_STORE /src/main/java/resources/log
-.DS_STORE /src/main/java/org.example/model
-.DS_STORE /src/main/java/org.example/dispatcher
-.DS_STORE /src/main/java/org.example/Main.java
-.DS_STORE /src/main/java/org.example/testBot.java
+.DS_STORE /src/main/java/org/example/model
+.DS_STORE /src/main/java/org/example/dispatcher
+.DS_STORE /src/main/java/org/example/Main.java
+.DS_STORE /src/main/java/org/example/testBot.java
